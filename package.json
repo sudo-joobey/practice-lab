@@ -1,0 +1,14 @@
+{
+  "name": "snyk-practice-lab",
+  "version": "1.0.0",
+  "description": "Small practice repo for learning Snyk scanning results.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.15",
+    "minimist": "0.0.8"
+  }
+}
